@@ -10,6 +10,8 @@
     4. [Walmart Superstore Analysis](https://public.tableau.com/views/WalmartSuperstoreAnalysisAssignment3_16238668404240/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)<br>
 
 **📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:**<br>
-![LinkedIn](https://www.linkedin.com/in/martha-akoth-81817b113)
+[LinkedIn](https://www.linkedin.com/in/martha-akoth-81817b113)
+
+
 
 
