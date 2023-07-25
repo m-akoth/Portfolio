@@ -1,7 +1,7 @@
 # Portfolio
 
 **About Me**<br>
-🖥 Software Engineering Enthusiast & Data Analyst<br>
+🖥  Data Analyst & Software Engineering Enthusiast<br>
 🎓 Student at ALX Africa<br>
 🌐 My open-source GitHub project repositories and Tableau Data Visualizations can be accessed through the following links:<br> 
     1. [GitHub Repositories](https://github.com/m-akoth)<br>
