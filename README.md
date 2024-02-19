@@ -2,7 +2,7 @@
 
 **About Me**<br>
 🖥  Data Analyst & Software Engineering Enthusiast<br>
-🎓 Student at ALX Africa<br>
+🎓 Student at Power Learn Project<br>
 🌐 My open-source GitHub project repositories and Tableau Data Visualizations can be accessed through the following links:<br> 
     1. [GitHub Repositories](https://github.com/m-akoth)<br>
     2. [Insight on Startup Venture Funding](https://public.tableau.com/views/InsightonStartupVentureFundingAssignment1_16220308061260/InsightonStartupVentureFunding?:language=en-US&:display_count=n&:origin=viz_share_link)<br>
